@@ -55,17 +55,6 @@ Since this is a healthcare classification problem, the models were evaluated usi
 
 Special attention was given to recall because false negatives in healthcare prediction can be critical.
 
----
-
-## Results
-
-| Model               | Accuracy | Recall | ROC-AUC |
-| ------------------- | -------- | ------ | ------- |
-| Logistic Regression | TBD      | TBD    | TBD     |
-| Random Forest       | TBD      | TBD    | TBD     |
-| XGBoost             | TBD      | TBD    | TBD     |
-
----
 
 ## Streamlit App
 
